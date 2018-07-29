@@ -7,10 +7,9 @@ FANBELSOFT
 当ページで作成したもののライセンスは放棄しますが、他サイトで作成されたもののライセンスにはご注意ください。
 
 
+
+
 お問い合わせ先
-
-
-FANBELSOFT
 
 
 fanbelsoft@gmail.com/fanbelsoft@outlook.jp
