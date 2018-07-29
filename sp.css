@@ -1,0 +1,125 @@
+body { 
+font-family : sans-serif,Arial ;
+background-color: #FFFFFF;
+width: 100%;
+}
+.menu_url {
+color: #00BFFF;
+}
+.botan_url {
+color: #FFFFFF;
+}
+a { 
+text-decoration:none;
+}
+.FFFFFF { 
+color: #FFFFFF;
+}
+.300% {
+font-size: 300%;
+}
+.botan {
+width:25%; 
+height:auto;
+background-color:#42b0f4;
+} 
+.center{
+  text-align: center;
+}
+.cp_ipselect {
+	overflow: hidden;
+	width: 90%;
+	margin: 2em auto;
+	text-align: center;
+}
+.cp_ipselect select {
+	width: 100%;
+	padding-right: 1em;
+	cursor: pointer;
+	text-indent: 0.01px;
+	text-overflow: ellipsis;
+	border: none;
+	outline: none;
+	background: transparent;
+	background-image: none;
+	box-shadow: none;
+	-webkit-appearance: none;
+	appearance: none;
+}
+.cp_ipselect select::-ms-expand {
+    display: none;
+}
+.cp_ipselect.cp_sl01 {
+	position: relative;
+	border: 1px solid #bbbbbb;
+	border-radius: 2px;
+	background: #ffffff;
+}
+.cp_ipselect.cp_sl01::before {
+	position: absolute;
+	top: 0.8em;
+	right: 0.9em;
+	width: 0;
+	height: 0;
+	padding: 0;
+	content: '';
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-top: 6px solid #666666;
+	pointer-events: none;
+}
+.cp_ipselect.cp_sl01 select {
+	padding: 8px 38px 8px 8px;
+	color: #666666;
+}
+.box22{
+    padding: 0.5em 1em;
+    margin: 1em 0;
+    background: #f4f4f4;
+    border-left: solid 6px #5bb7ae;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.33);
+}
+.box22 p {
+    margin: 0; 
+    padding: 0;
+}
+.box27 {
+    margin: 2em 0;
+    background: #f1f1f1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22);
+}
+.box27 .box-title {
+    font-size: 1.2em;
+    background: #5fc2f5;
+    padding: 4px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+.box27 p {
+    padding: 15px 20px;
+    margin: 0;
+}
+.kaisha {
+width: 100%;
+}
+ 
+.kaisha th,
+.kaisha td {
+border: 1px solid #ccc;
+padding: 20px;
+}
+ 
+.kaisha th {
+font-weight: bold;
+background-color: #dedede; 
+}
+ 
+@media screen and (max-width: 767px) {
+.kaisha,
+.kaisha tr,
+.kaisha td,
+.kaisha th {display:block;}
+.kaisha th {width:auto;}
+}
