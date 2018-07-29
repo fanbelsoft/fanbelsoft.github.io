@@ -19,7 +19,7 @@ We will give up the license of what we created on this page, but please pay atte
 ==Contact Information==
 
 
-fanbelsoft@gmail.com/fanbelsoft@outlook.jp
+fanbelsoft@gmail.com / fanbelsoft@outlook.jp
 
 
 https://fanbelsoft.github.io/
